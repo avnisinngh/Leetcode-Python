@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/avnisinngh/Leetcode-Python/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/avnisinngh/Leetcode-Python/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/avnisinngh/Leetcode-Python/tree/master/0347-top-k-frequent-elements) |
+| [1590-make-sum-divisible-by-p](https://github.com/avnisinngh/Leetcode-Python/tree/master/1590-make-sum-divisible-by-p) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/avnisinngh/Leetcode-Python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/avnisinngh/Leetcode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/avnisinngh/Leetcode-Python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/avnisinngh/Leetcode-Python/tree/master/0347-top-k-frequent-elements) |
+| [1590-make-sum-divisible-by-p](https://github.com/avnisinngh/Leetcode-Python/tree/master/1590-make-sum-divisible-by-p) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/avnisinngh/Leetcode-Python/tree/master/0238-product-of-array-except-self) |
+| [1590-make-sum-divisible-by-p](https://github.com/avnisinngh/Leetcode-Python/tree/master/1590-make-sum-divisible-by-p) |
 ## Matrix
 |  |
 | ------- |
