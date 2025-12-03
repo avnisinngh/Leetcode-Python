@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/avnisinngh/Leetcode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/avnisinngh/Leetcode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -97,9 +99,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/avnisinngh/Leetcode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0543-diameter-of-binary-tree) |
 ## Geometry
 |  |
 | ------- |
 | [3625-count-number-of-trapezoids-ii](https://github.com/avnisinngh/Leetcode-Python/tree/master/3625-count-number-of-trapezoids-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/avnisinngh/Leetcode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
