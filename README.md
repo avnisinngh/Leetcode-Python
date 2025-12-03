@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/avnisinngh/Leetcode-Python/tree/master/0347-top-k-frequent-elements) |
 | [1590-make-sum-divisible-by-p](https://github.com/avnisinngh/Leetcode-Python/tree/master/1590-make-sum-divisible-by-p) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/avnisinngh/Leetcode-Python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/avnisinngh/Leetcode-Python/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/avnisinngh/Leetcode-Python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/avnisinngh/Leetcode-Python/tree/master/0347-top-k-frequent-elements) |
 | [1590-make-sum-divisible-by-p](https://github.com/avnisinngh/Leetcode-Python/tree/master/1590-make-sum-divisible-by-p) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/avnisinngh/Leetcode-Python/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/avnisinngh/Leetcode-Python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/avnisinngh/Leetcode-Python/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Tree
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0104-maximum-depth-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [3625-count-number-of-trapezoids-ii](https://github.com/avnisinngh/Leetcode-Python/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->
