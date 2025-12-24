@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/avnisinngh/Leetcode-Python/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/avnisinngh/Leetcode-Python/tree/master/0347-top-k-frequent-elements) |
 | [1590-make-sum-divisible-by-p](https://github.com/avnisinngh/Leetcode-Python/tree/master/1590-make-sum-divisible-by-p) |
+| [3074-apple-redistribution-into-boxes](https://github.com/avnisinngh/Leetcode-Python/tree/master/3074-apple-redistribution-into-boxes) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/avnisinngh/Leetcode-Python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/avnisinngh/Leetcode-Python/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/avnisinngh/Leetcode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/avnisinngh/Leetcode-Python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/avnisinngh/Leetcode-Python/tree/master/0347-top-k-frequent-elements) |
+| [3074-apple-redistribution-into-boxes](https://github.com/avnisinngh/Leetcode-Python/tree/master/3074-apple-redistribution-into-boxes) |
 ## String
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/avnisinngh/Leetcode-Python/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/avnisinngh/Leetcode-Python/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
