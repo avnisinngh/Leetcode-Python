@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avnisinngh/Leetcode-Python/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/avnisinngh/Leetcode-Python/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/avnisinngh/Leetcode-Python/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/avnisinngh/Leetcode-Python/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/avnisinngh/Leetcode-Python/tree/master/0128-longest-consecutive-sequence) |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/avnisinngh/Leetcode-Python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avnisinngh/Leetcode-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avnisinngh/Leetcode-Python/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/avnisinngh/Leetcode-Python/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
