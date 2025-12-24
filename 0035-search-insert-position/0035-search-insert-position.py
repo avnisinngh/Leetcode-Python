@@ -4,10 +4,6 @@ class Solution:
         lb = n
         low = 0
         high = n-1
-        if nums[high] < target:
-            return n
-        if nums[low] > target:
-            return 0
         while low <= high:
             mid = (low+high)//2
             if nums[mid]>= target:
