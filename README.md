@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/avnisinngh/Leetcode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/avnisinngh/Leetcode-Python/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/avnisinngh/Leetcode-Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/avnisinngh/Leetcode-Python/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/avnisinngh/Leetcode-Python/tree/master/1590-make-sum-divisible-by-p) |
 | [3074-apple-redistribution-into-boxes](https://github.com/avnisinngh/Leetcode-Python/tree/master/3074-apple-redistribution-into-boxes) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/avnisinngh/Leetcode-Python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/avnisinngh/Leetcode-Python/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/avnisinngh/Leetcode-Python/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/avnisinngh/Leetcode-Python/tree/master/1590-make-sum-divisible-by-p) |
 ## Matrix
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/avnisinngh/Leetcode-Python/tree/master/3074-apple-redistribution-into-boxes) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/avnisinngh/Leetcode-Python/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
