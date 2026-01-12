@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/avnisinngh/Leetcode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/avnisinngh/Leetcode-Python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/avnisinngh/Leetcode-Python/tree/master/0347-top-k-frequent-elements) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/avnisinngh/Leetcode-Python/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/avnisinngh/Leetcode-Python/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/avnisinngh/Leetcode-Python/tree/master/1590-make-sum-divisible-by-p) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/avnisinngh/Leetcode-Python/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/avnisinngh/Leetcode-Python/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/avnisinngh/Leetcode-Python/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/avnisinngh/Leetcode-Python/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/avnisinngh/Leetcode-Python/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/avnisinngh/Leetcode-Python/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/avnisinngh/Leetcode-Python/tree/master/0199-binary-tree-right-side-view) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/avnisinngh/Leetcode-Python/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/avnisinngh/Leetcode-Python/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/avnisinngh/Leetcode-Python/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/avnisinngh/Leetcode-Python/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/avnisinngh/Leetcode-Python/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Geometry
 |  |
 | ------- |
