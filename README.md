@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/avnisinngh/Leetcode-Python/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/avnisinngh/Leetcode-Python/tree/master/1590-make-sum-divisible-by-p) |
 | [3074-apple-redistribution-into-boxes](https://github.com/avnisinngh/Leetcode-Python/tree/master/3074-apple-redistribution-into-boxes) |
+| [3453-separate-squares-i](https://github.com/avnisinngh/Leetcode-Python/tree/master/3453-separate-squares-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/avnisinngh/Leetcode-Python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/avnisinngh/Leetcode-Python/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Hash Table
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/avnisinngh/Leetcode-Python/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avnisinngh/Leetcode-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/avnisinngh/Leetcode-Python/tree/master/0704-binary-search) |
+| [3453-separate-squares-i](https://github.com/avnisinngh/Leetcode-Python/tree/master/3453-separate-squares-i) |
 ## Greedy
 |  |
 | ------- |
