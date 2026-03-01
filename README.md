@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/avnisinngh/Leetcode-Python/tree/master/0070-climbing-stairs) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/avnisinngh/Leetcode-Python/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/avnisinngh/Leetcode-Python/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Tree
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/avnisinngh/Leetcode-Python/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/avnisinngh/Leetcode-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avnisinngh/Leetcode-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/avnisinngh/Leetcode-Python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
